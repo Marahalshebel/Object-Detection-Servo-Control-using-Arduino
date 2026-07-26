@@ -28,6 +28,21 @@ The project demonstrates the integration of distance sensing with actuator contr
 
 ---
 
+---
+
+## Project Preview
+
+### Hardware Setup
+
+![Circuit Connection](Circuit.jpg)
+![Circuit Connection](Circuit1.jpg)
+
+### Demo
+
+[![Demo Video](Demo_thumbnail.jpg)](Demo.mp4)
+
+---
+
 ## Circuit Connections
 
 | Component | Arduino Pin |
