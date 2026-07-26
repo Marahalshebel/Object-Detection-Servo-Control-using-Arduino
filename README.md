@@ -34,7 +34,7 @@ The project demonstrates the integration of distance sensing with actuator contr
 
 ### Hardware Setup
 
-![Circuit Connection](Circuit.jpg)
+![Circuit Connection](Circuit.jpg) 
 ![Circuit Connection](Circuit1.jpg)
 
 ### Demo
