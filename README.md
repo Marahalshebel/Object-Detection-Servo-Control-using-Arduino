@@ -34,7 +34,7 @@ The project demonstrates the integration of distance sensing with actuator contr
 
 ### Hardware Setup
 
-![Circuit Connection](Circuit.jpg) 
+![Circuit Connection](Circuit2.jpg) 
 ![Circuit Connection](Circuit1.jpg)
 
 ### Demo
@@ -71,7 +71,7 @@ The project demonstrates the integration of distance sensing with actuator contr
 | File | Description |
 |------|-------------|
 | [Arduino_Servo_Distance.ino](Arduino_Servo_Distance.ino) | Arduino source code |
-| [Circuit.jpg](Circuit.jpg) | Hardware connection |
+| [Circuit2.jpg](Circuit.jpg) | Hardware connection |
 | [Demo.mp4](Demo.mp4) | Demonstration video |
 | [README.md](README.md) | Project documentation |
 
